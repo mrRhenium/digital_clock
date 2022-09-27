@@ -26,8 +26,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 50%;
-  height: 80%;
+  width: 95%;
+  height: 95%;
   border: 2px solid red;
   padding: 1rem;
   overflow: hidden;
